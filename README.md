@@ -1,5 +1,5 @@
-// Author: Nakshatra Ranjan Saha
-// GitHub: https://github.com/OCEANOFANYTHINGOFFICIAL
+// Author: Akash Alif 
+// GitHub: https://github.com/Akash-Alif
 
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
